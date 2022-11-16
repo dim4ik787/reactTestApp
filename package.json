@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://dim4ik787.github.io/reactTestApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
