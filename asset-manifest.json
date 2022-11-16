@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactTestApp/static/css/main.f7131dc8.css",
+    "main.js": "/reactTestApp/static/js/main.a04f0420.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactTestApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/SEGA.woff": "/reactTestApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/reactTestApp/index.html",
+    "main.f7131dc8.css.map": "/reactTestApp/static/css/main.f7131dc8.css.map",
+    "main.a04f0420.js.map": "/reactTestApp/static/js/main.a04f0420.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactTestApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7131dc8.css",
+    "static/js/main.a04f0420.js"
+  ]
+}
